@@ -1,0 +1,18 @@
+FastTables - Tarefas de acesso rápido (Módulo Default)
+sc_req_item.list - Item requisitado
+sc_cat_item.list - Item de catalogo
+change_request.list - Mudanças
+sys_usergroup.list - Lista de grupo
+sys_grmember - Lista dos usúarios que estão no grupo
+sysapproval_approver.list - Lista de aprovadores
+time_card.list - Apontamento de horas
+announcement.list - Lista de anúncios [Fixos]
+sys_ux_banner_announcement - Lista de anúncios [Dinâmicos]
+label.list - Tabela de marcadores
+incident.list - Tabela de incidente
+vbt_board.list - Lista de Kanban
+loading_transactions.do - Nodes em carregamento paralelo
+sys_report.list - Lista dos Relatórios
+cmdb_ci_service - Serviços
+sys_choice - Sintomas
+sys_properties - Tabela de GetProperty.
