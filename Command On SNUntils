@@ -1,0 +1,7 @@
+Comandos - SN Untils
+
+/tn - Exibe os nomes de valor dos campos
+/copycolumn - Copia a coluna como string
+/pop - Exibe o HUB
+/uh - Exibe campos ocultos
+/new Workflow().restartWorkflow(grScReqItem) - Reset de Workflow
